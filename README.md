@@ -1,4 +1,4 @@
-# turtle_SnakeGame
+# Snake Game
 My first version of the snake game made in turtle. 
 
 Might redo this in the future to make code tidier. 
